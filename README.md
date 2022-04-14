@@ -18,5 +18,4 @@ I find myself currently interested in:
 
 - Laravel <img src="https://laravel.com/img/logomark.min.svg" width="15">
 - Terraform <img src="https://ms-devlabs.gallerycdn.vsassets.io/extensions/ms-devlabs/custom-terraform-tasks/0.1.10/1622040076765/Microsoft.VisualStudio.Services.Icons.Default" width="15">
-- Go <img src="https://miro.medium.com/max/600/1*i2skbfmDsHayHhqPfwt6pA.png" width="15"> 
-- PaaS (Heroku) <img src="https://pbs.twimg.com/profile_images/689189555765784576/3wgIDj3j.png" width="15"> 
+- RabbitMQ <img src="https://assets.zabbix.com/img/brands/rabbitmq.svg" width="15">
