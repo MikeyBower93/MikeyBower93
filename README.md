@@ -24,4 +24,5 @@ I find myself currently interested in:
 - Terraform
 - Kafka
 - Kubernetes
+- Docker
 - GitHub Actions
