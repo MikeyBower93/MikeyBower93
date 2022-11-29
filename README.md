@@ -2,12 +2,7 @@
 
 I'm a Software Engineer at [Pleo](https://pleo.io/en) 
 
-I love all things around Software Engineering, but specifically love full stack web development!
-
-I find myself currently interested in:
-- Functional Programming
-- Distributed Systems
-- Agile Development
+I love all things around software engineering, but specifically love backend web development!
 
 ## Tools I've Used
 - Elixir/Phoenix
